@@ -1,5 +1,5 @@
 # Student_Management_System
-<h1>Welcome to the Student Management Sysytem Repository!</h1>
+<h2>Welcome to the Student Management Sysytem Repository!</h2>
 
 This project is a comprehensive implementation of the MERN (MongoDB, Express.js, React.js, Node.js) stack, integrated with Tailwind CSS for sleek UI design and functionality. Bootstrap can also be utilized alternatively.
 
